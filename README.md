@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [Story Squad](https://github.com/Lambda-School-Labs/Labs26-StorySquad-DS-TeamB) an application to encourage children to write creative stories to improve their reading and writing ability without the stigma that the traditional education system usually place on students with standardized testing;
-- 🌱 I’m currently learning R, MXNet and the AWS Platform (Cli, SDK, Management Console);
+- 🌱 I’m currently learning R and Apache Airflow;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I was a generator mechanic in the Marine Corps;
 - 📫 How to reach me: jw59615@gmail.com;
