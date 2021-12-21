@@ -1,4 +1,7 @@
-<!-- Your title -->
+- [Show Support](#show-support)
+- [## Main Projects](#-main-projects)
+
+
 ### Hi, I'm **Joseph Wilson**, I'm A Data Scientist and I want to solve all of the world's problems.
 
 <!-- Your badges
@@ -68,8 +71,8 @@ I created these images, feel free to use them.
 
 <!-- Its main projects -->
 <p align="center">
-  <a href="https://github.com/Lambda-School-Labs/Labs26-StorySquad-DS-TeamB">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lambda-School-Labs&repo=Labs26-StorySquad-DS-TeamB" />
+  <a href="https://github.com/BloomTech-Labs/dep-story-squad-ds-b">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BloomTech-Labs&repo=dep-story-squad-ds-b" />
   </a>
   <a href="https://github.com/Jwilson1172/NaiveBayes">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jwilson1172&repo=NaiveBayes" />
