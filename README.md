@@ -1,7 +1,3 @@
-- [Show Support](#show-support)
-- [## Main Projects](#-main-projects)
-
-
 ### Hi, I'm **Joseph Wilson**, I'm A Data Scientist and I want to solve all of the world's problems.
 
 <!-- Your badges
@@ -21,7 +17,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning R, RUST, and Apache Airflow;
+- 🌱 I’m currently learning <b> Databricks, R, Transact SQL</b>;
+- 🎓 Currently Enrolled In <b> TCC For A.S In Computer Science </b> Transfering To Virginia Tech <b>B.S In Computational Modeling and Data Analitics</b><sub> *Physics option</sub>
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I was a generator mechanic in the Marine Corps;
 - 📫 How to reach me: jw59615@gmail.com;
@@ -30,9 +27,6 @@ You can use the website to generate badges: https://shields.io/
 
 **Languages and Tools:**
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
 
   <!-- Your languages and tools. Be careful with the alignment.
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
@@ -44,7 +38,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
@@ -53,6 +47,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/zoomus/zoomus-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
 
 </p>
 
@@ -70,7 +65,7 @@ I created these images, feel free to use them.
 ---
 
 <!-- Its main projects -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/BloomTech-Labs/dep-story-squad-ds-b">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BloomTech-Labs&repo=dep-story-squad-ds-b" />
   </a>
