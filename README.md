@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 - ⚡️ Fun-Fact: I was a generator mechanic in the Marine Corps;
 - 📫 How to reach me: jw59615@gmail.com;
 
-![Joseph's github stats](https://github-readme-stats.vercel.app/api?username=Jwilson1172)
+![Joseph's github stats](https://github-readme-stats-prod-two.vercel.app/api?username=Jwilson1172&showicons=true&theme=great-gatsby)
 
 **Languages and Tools:**
 
@@ -67,13 +67,13 @@ I created these images, feel free to use them.
 <!-- Its main projects -->
 <p align="left">
   <a href="https://github.com/BloomTech-Labs/dep-story-squad-ds-b">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BloomTech-Labs&repo=dep-story-squad-ds-b" />
+    <img align="center" src="https://github-readme-stats-prod-two.vercel.app/api/pin/?username=BloomTech-Labs&repo=dep-story-squad-ds-b&showicons=true&theme=great-gatsby" />
   </a>
   <a href="https://github.com/Jwilson1172/NaiveBayes">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jwilson1172&repo=NaiveBayes" />
+    <img align="center" src="https://github-readme-stats-prod-two.vercel.app/api/pin/?username=Jwilson1172&repo=NaiveBayes&showicons=true&theme=great-gatsby" />
   </a>
   <a href="https://github.com/Jwilson1172/app__warframe_ds">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jwilson1172&repo=app__warframe_ds" />
+    <img align="center" src="https://github-readme-stats-prod-two.vercel.app/api/pin/?username=Jwilson1172&repo=app__warframe_ds&showicons=true&theme=great-gatsby" />
   </a>
 </p>
 
