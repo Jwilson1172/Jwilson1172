@@ -13,7 +13,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-![Jwilson1172's Stats](https://github-readme-stats.vercel.app/api?username=Jwilson1172&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
+![Jwilson1172's Stats](https://github-readme-stats-prod-two.vercel.app/api?username=Jwilson1172&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
 
 <!--
 ![Jwilson1172's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jwilson1172&theme=tokyonight&hide_border=false)
@@ -22,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
 
 **Languages and Tools:**
 
-![Jwilson1172's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jwilson1172&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![Jwilson1172's Top Languages](https://github-readme-stats-prod-two.vercel.app/api/top-langs/?username=Jwilson1172&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
   <!-- Your languages and tools. Be careful with the alignment.
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
