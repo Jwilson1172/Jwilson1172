@@ -1,9 +1,4 @@
-### **Joseph Wilson**, 
-#### Software developer
-
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+<code><img src="./img/Profile_header.svg"></code>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JWilson1172)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-wilson-98645b49)
@@ -14,10 +9,6 @@ You can use the website to generate badges: https://shields.io/
 **About Me:**
 
 ![Jwilson1172's Stats](https://github-readme-stats-prod-two.vercel.app/api?username=Jwilson1172&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
-
-<!--
-![Jwilson1172's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jwilson1172&theme=tokyonight&hide_border=false)
--->
 
 
 **Languages and Tools:**
@@ -46,5 +37,5 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
 
 </p>
-<!-- This readme was created by Murillo Comino - https://github.com/onimur -->
-⭐️ From [onimur](https://github.com/onimur)
+<!-- This readme was originally inspired by Murillo Comino - https://github.com/onimur -->
+<!-- In recent years it's deviated from that template but I'm going to leave this here until I have it fully replaced with my own style-->
