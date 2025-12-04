@@ -1,4 +1,7 @@
-<code><img src="./img/Profile_header.svg"></code>
+<image>
+    <source media="(prefers-color-scheme:dark)" srcset="./img/Profile_header_dark.svg">
+    <img src="./img/Profile_header_light.svg">
+</image>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JWilson1172)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-wilson-98645b49)
