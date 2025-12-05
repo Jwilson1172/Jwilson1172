@@ -27,9 +27,9 @@
 
 
 <!-- Hide languages and tools by defualt -->
-<details>
-    <summary><b>Languages and Tools:</b></summary>
-<!-- Not sure why this works but it's working so I'm not going to move it-->
+<b>Languages and Tools:</b>
+<!-- uuuuggghhh fine I won't use a detail panel to hind this mess -->
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-prod-two.vercel.app/api/top-langs?username=Jwilson1172&theme=default&hide_border=true&bg_color=1a1b27&text_color=c8d3f5&icon_color=ffb454&title_color=ff757f&layout=compact&show_icons=true">
     <img src="https://github-readme-stats-prod-two.vercel.app/api/top-langs?username=Jwilson1172&theme=default&hide_border=true&bg_color=faf7f2&text_color=5a4a42&icon_color=ff8e6e&title_color=d86c5b&layout=compact&show_icons=true">
@@ -51,7 +51,6 @@
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21~bgwhite.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
 
-</details>
 <br>
 <sub>If you are interested I do also have WIP blog. It's ... a template ATM but if you want to bookmark it and checkback periodically I'm sure you might find things have changed.
 <br>
