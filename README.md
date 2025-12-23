@@ -28,7 +28,8 @@
 
 <!-- Hide languages and tools by defualt -->
 <b>Languages and Tools:</b>
-<!-- uuuuggghhh fine I won't use a detail panel to hind this mess -->
+For a real-time look at what languages I've been using check out my [Code::Stats](https://codestats.net/users/Jwilson1172)
+
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-prod-two.vercel.app/api/top-langs?username=Jwilson1172&theme=default&hide_border=true&bg_color=1a1b27&text_color=c8d3f5&icon_color=ffb454&title_color=ff757f&layout=compact&show_icons=true">
