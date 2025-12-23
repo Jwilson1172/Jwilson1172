@@ -27,7 +27,7 @@
 
 
 <!-- Hide languages and tools by defualt -->
-<b>Languages and Tools:</b>
+<b>Languages and Tools:</b><br />
 For a real-time look at what languages I've been using check out my [Code::Stats](https://codestats.net/users/Jwilson1172)
 
 
